@@ -1,6 +1,6 @@
 {
   "name": "ccp_rest_sdk_node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "容联云短信SDK",
   "main": "index.js",
   "directories": {
@@ -10,6 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords":["容联云", "容联云短信", "ccp_rest"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chuhongliang/CCP_REST_SDK_Node.git"
