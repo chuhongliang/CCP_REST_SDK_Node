@@ -1,0 +1,26 @@
+{
+  "name": "ccp_rest_sdk_node",
+  "version": "1.0.0",
+  "description": "容联云短信SDK",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuhongliang/CCP_REST_SDK_Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuhongliang/CCP_REST_SDK_Node/issues"
+  },
+  "homepage": "https://github.com/chuhongliang/CCP_REST_SDK_Node#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
