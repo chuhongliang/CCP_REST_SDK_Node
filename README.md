@@ -8,6 +8,7 @@ npm install ccp_rest_sdk_node
 
 ### Usage
 ``` javascript
+let accountSid = '8a216da869';
 let appId = '8a216da869';
 let token = '56c3cd';
 const sms = require('../lib/sms')(accountSid, appId, token);
