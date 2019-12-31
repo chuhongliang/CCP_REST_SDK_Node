@@ -1,6 +1,6 @@
 {
   "name": "ccp_rest_sdk_node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "容联云短信SDK",
   "main": "index.js",
   "directories": {
