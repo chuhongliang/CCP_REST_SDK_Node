@@ -14,7 +14,7 @@ const token = '56c3cd';
 const sms = require('../lib/sms')(accountSid, appId, token);
 
 async function test(){
-	let result = await sms.send('1561902230', 332870, '1',1);
+	let result = await sms.send('1561902230', '1', [332870,1]);
 	console.log(result);
 }
 test();
