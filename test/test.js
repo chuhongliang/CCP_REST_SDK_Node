@@ -7,5 +7,4 @@ async function test(){
 	let result = await sms.send('13717807729', 332870, '1',1);
 	console.log(result);
 }
-
 test();
